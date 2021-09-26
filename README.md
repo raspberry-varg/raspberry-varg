@@ -2,6 +2,7 @@
 
 <img src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1687&q=80" alt="Galaxy view from Earth" style="width: 100%; height: 150px;" >
 
+> "Iriquus" is an alternate name, commits under that name are from Visual Studio Code.
 ---
 
 ### 🖥 My current projects consist of:

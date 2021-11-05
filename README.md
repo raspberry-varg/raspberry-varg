@@ -7,7 +7,7 @@
 
 ### 🖥 My current projects consist of:
 * `[Name Change Pending]` eSports League Professional Valorant Discord Bot, complete with a database to enhance competetor experiences.
-* Website and dashboard for Ascension League, to include news, updates, and important information, along with a dashboard for players.
+* Website and dashboard for `[Name Change Pending]` League, to include news, updates, and important information, along with a dashboard for players.
 * University assignments consisting of logic and algorithms.
 
 ---

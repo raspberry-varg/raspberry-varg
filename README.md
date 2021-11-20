@@ -21,7 +21,7 @@ This will allow for new or existing servers to provide channels for certain depa
 ___
 
 ### 🪡 My other projects consist of
-* `[Name Change Pending]` Valorant eSports League Discord Bot, complete with team management, moderation, and user profiles to enhance competitor experiences across the board.
+* **`[Name Change Pending]` Valorant eSports League Discord Bot**, complete with team management, moderation, and user profiles to enhance competitor experiences across the board.
 * University assignments consisting of logic, data structures, and algorithms.
 
 ___

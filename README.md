@@ -21,13 +21,13 @@ This will allow for new or existing servers to provide channels for certain depa
 ___
 
 ### 🪡 My other projects consist of
-* **`[Name Change Pending]` Valorant eSports League Discord Bot**, complete with team management, moderation, and user profiles to enhance competitor experiences across the board.
-* University assignments consisting of logic, data structures, and algorithms.
+* [**Independent Valorant eSports League Discord Bot**](../../../valorant-league-bot), complete with team management, moderation, and user profiles to enhance competitor experiences across the board.
+* [University assignments](../../../university-projects) consisting of logic, data structures, and algorithms.
 
 ___
 
 ### 🧵 Upcoming projects
-* Google Tech Exchange: Applied Data Structures
+* Google Tech Exchange: Applied Data Structures & Careers in Tech
 * University
   + Software Development
   + Creating and managing a compiler

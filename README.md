@@ -22,9 +22,9 @@ ___
 
 ### 🪡 My other projects consist of
 * [**Independent Valorant eSports League Discord Bot**](../../../valorant-league-bot), complete with team management, moderation, and user profiles to enhance competitor experiences across the board.
-* [University assignments](../../../university-projects) consisting of logic, data structures, and algorithms.
-* Software Development Group Project
-* Compiler for Compilers & Automata
+* [University assignments](../../../university-projects)
+  + Software Development Group Project
+  + Compiler for Compilers & Automata
 * Google Tech Exchange
   + Applied Data Structures
   + Careers in Tech (Mock Interviews)
@@ -32,17 +32,17 @@ ___
 ___
 
 ### 🧵 Upcoming projects
-* Nothing for now~
+* Nothing for now ✨
 
 ___
 
 <br>
 
-## 🎀 A Little More About Me 
-- 🌱 I am currently learning Node.js, and continuing my studies on data structures and algorithms.
-- 🪴 I am interested in creating front- and back-end solutions for startups, and create a story-heavy video game.
-- 🔮 Away from code, I love to watch movies in my free time and fall down a rabbit hole of murder mysteries.
-- 🎬 Disney is my obsession, and I wouldn't have it any other way.
+## 🎀 A Little More About Me
+- 🌱 I am currently refining my interview skills, and applications of DS&A.
+- 🪴 I am interested in creating wholistic software solutions, and to create a story-heavy video game.
+- 🔮 Away from code, I love to watch movies and fall down a rabbit hole of murder mysteries.
+- 🍁 Disney is my obsession, and I wouldn't have it any other way.
 
 ___
 

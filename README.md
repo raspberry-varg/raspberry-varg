@@ -23,14 +23,16 @@ ___
 ### 🪡 My other projects consist of
 * [**Independent Valorant eSports League Discord Bot**](../../../valorant-league-bot), complete with team management, moderation, and user profiles to enhance competitor experiences across the board.
 * [University assignments](../../../university-projects) consisting of logic, data structures, and algorithms.
+* Software Development Group Project
+* Compiler for Compilers & Automata
+* Google Tech Exchange
+  + Applied Data Structures
+  + Careers in Tech (Mock Interviews)
 
 ___
 
 ### 🧵 Upcoming projects
-* Google Tech Exchange: Applied Data Structures & Careers in Tech
-* University
-  + Software Development
-  + Creating and managing a compiler
+* Nothing for now~
 
 ___
 

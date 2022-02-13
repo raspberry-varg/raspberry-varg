@@ -23,6 +23,7 @@ ___
 ### 🪡 My other projects consist of
 * [**Independent Valorant eSports League Discord Bot**](../../../valorant-league-bot), complete with team management, moderation, and user profiles to enhance competitor experiences across the board.
 * [University assignments](../../../university-projects#readme) | [<sub>Previous Semester Projects</sub>](../../../university-projects#-fall-2021)
+  + [Software Development Individual Work](../../../Programs)
   + Software Development Group Project
   + Compiler for Compilers & Automata
 * Google Tech Exchange

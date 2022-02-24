@@ -22,9 +22,11 @@ ___
 
 ### 🪡 My other projects consist of
 * [**Independent Valorant eSports League Discord Bot**](../../../valorant-league-bot), complete with team management, moderation, and user profiles to enhance competitor experiences across the board.
-* [University assignments](../../../university-projects#readme) | [<sub>Previous Semester Projects</sub>](../../../university-projects#-fall-2021)
-  + [Software Development Individual Work](../../../Programs)
+* [University assignments](../../../university-projects#readme) | [<sub>[Previous Semester Projects]</sub>](../../../university-projects#-fall-2021)
+  + Software Development Individual Work
+    + [Source Code](../../../Programs)
   + Software Development Group Project
+    + [Source Code](https://github.com/robertvargas-irq/project-ascdws) | [Website](https://github.com/matrom01-v2/ProjectASCDWS_Site)
   + Compiler for Compilers & Automata
 * Google Tech Exchange
   + Applied Data Structures

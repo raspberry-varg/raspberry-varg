@@ -22,7 +22,7 @@ ___
 
 ### 🪡 My other projects consist of
 * [**Independent Valorant eSports League Discord Bot**](../../../valorant-league-bot), complete with team management, moderation, and user profiles to enhance competitor experiences across the board.
-* [University assignments](../../../university-projects#readme) | [<sub>[Previous Semester Projects]</sub>](../../../university-projects#-fall-2021)
+* [University assignments](https://github.com/robertvargas-irq/university-projects/blob/main/README.md#nmsu-course-assignments) | [<sub>[Previous Semester Projects]</sub>](https://github.com/robertvargas-irq/university-projects/blob/main/README.md#-fall-2021)
   + Software Development Individual Work
     + [Source Code](../../../Programs)
   + Software Development Group Project

@@ -49,7 +49,7 @@ ___
 
 ___
 
-📫 **You can reach me directly at iriquus@icloud.com for any queries or concerns.**
+📫 **You can reach me directly at robertvargas.eptx@gmail.com for any queries or concerns.**
 
 ___
 

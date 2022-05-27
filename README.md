@@ -23,11 +23,8 @@ ___
 ### 🪡 My other projects consist of
 * [**Fun Battling and Hunting Bot**](../../../battles-and-hunts-bot) Simple bot that facilitates fun D&D-style battles complete with rolls, and hunting mechanics with cached carrying bags and the ability to deposit caught food to a specific group in the server which can later be eaten to satiate a player's hunger depending on the caught food's size. (Readme coming real soon!)
 * [**Independent Valorant eSports League Discord Bot**](../../../valorant-league-bot), complete with team management, moderation, and user profiles to enhance competitor experiences across the board.
-* [University assignments](https://github.com/robertvargas-irq/university-projects/blob/main/README.md#nmsu-course-assignments) | [<sub>[Previous Semester Projects]</sub>](https://github.com/robertvargas-irq/university-projects/blob/main/README.md#-fall-2021)
-  + Software Development Individual Work
-    + [Source Code](../../../Programs)
-  + Software Development Group Project
-    + [Source Code](https://github.com/robertvargas-irq/project-ascdws) | [Website](https://github.com/matrom01-v2/ProjectASCDWS_Site)
+* [Spring University Assignments](https://github.com/robertvargas-irq/university-projects/blob/main/README.md#nmsu-course-assignments) | [[Previous Semesters]](https://github.com/robertvargas-irq/university-projects/blob/main/README.md#-fall-2021)
+  + Software Development Individual and Group Projects
   + Compiler for Compilers & Automata
 * Google Tech Exchange
   + Applied Data Structures

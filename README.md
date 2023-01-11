@@ -10,15 +10,9 @@ ___
 - [🪡 My other projects](#🪡-my-other-projects-consist-of)
 ___
 
-<div style="display:flex; align-items:center;">
-  <img src="https://user-images.githubusercontent.com/90274287/208244284-e5cdcdf1-3cba-4bb7-98dd-09f86d674f04.png" alt="Battles, Hunts & More Logo" style="border-radius: 100%; width: 4em; margin-right: 1em;">
-  <h2>
-    <span>
-      <a href="https://github.com/robertvargas-irq/battles-and-hunts-bot">Battles, Hunts, & More+</a>
-    </span>
-    | My Current Primary Project
-  </h2>
-</div>
+<img src="assets/bhm/logo.png" alt="Battles, Hunts & More Logo" width="180em">
+
+## [Battles, Hunts, & More+](https://github.com/robertvargas-irq/battles-and-hunts-bot) | My Current Primary Project
 
 <h3>Storytelling made easy.</h3>
 

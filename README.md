@@ -5,7 +5,7 @@
 ___
 
 🔗 _Jump to:_
-- [🕹️ Apocalypse Couriers Game](#-apocalypse-couriers-8-bit-game)
+- [🕹️ Apocalypse Couriers Game](#%EF%B8%8F-apocalypse-couriers-8-bit-game)
 - [🍵 Course Sync](#-course-sync)
 - [🪡 My other projects](#-my-other-projects-consist-of)
 - [🎀 A Little More About Me](#-a-little-more-about-me)

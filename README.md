@@ -5,44 +5,46 @@
 ___
 
 🔗 _Jump to:_
-- [🕹️ Apocalypse Couriers Game](#🕹️-apocalypse-couriers-8-bit-game)
-- [🍵 Course Sync](#🍵-course-sync)
-- [🪡 My other projects](#🪡-my-other-projects-consist-of)
+- [🕹️ Apocalypse Couriers Game](#-apocalypse-couriers-8-bit-game)
+- [🍵 Course Sync](#-course-sync)
+- [🪡 My other projects](#-my-other-projects-consist-of)
+- [🎀 A Little More About Me](#-a-little-more-about-me)
+
 ___
 
 <img src="assets/bhm/logo.png" alt="Battles, Hunts & More Logo" width="180em">
 
 ## [Battles, Hunts, & More+](https://github.com/robertvargas-irq/battles-and-hunts-bot) | My Current Primary Project
 
-<h3>Storytelling made easy.</h3>
+### Storytelling made easy.
 
 Battles, Hunts & More is a Discord bot that supercharges the process of storytelling and role-play within a Discord server.
 
 🖼️ [__View the full README with visuals included.__](https://github.com/robertvargas-irq/battles-and-hunts-bot/tree/dev_build#readme)
 
-#### 🏓 Player Features
+### 🏓 Player Features
 Comeplete with character creation, **BHM+** allows players to fully document their character's (or characters') backstory, history, and any stats that define their combat readiness, hunting abilities, and general stature and survivability. This leans into their proficiency in hunting, hunger, and fully-fledged and customizable __Turn-Based Combat System__ mechanics available to all players in __BHM+__!
 
 > 💬 Players also have the ability to speak as their character in-chat, switching between multiple on a whim!
 
-#### 🎨 Server Design
+### 🎨 Server Design
 Server administrators have full control over the universe that they design, from name, history, and visuals, down to the alliance groups that exist that players can become a part of (and those are customizable too)!
 
 Alongside universe customizability, administrators can create NPCs to further interact with players in their world! NPCs also utilize the speaking mechanics, and will automatically appear for Administrators when speaking in character.
 
-#### 📦 Inventory & Storage Containers
+### 📦 Inventory & Storage Containers
 
 Players may also hunt, carry, and deposit food into storage containers, or eat it themselves straight from their inventory! (Items will be arriving in v6.0, and the storage system is fully prepared for its implementation).
 
 Server administrators may set up their storage containers to suit the story's needs, including setting the alliances who own the container, alliances that may take or deposit, and if the container may be "secretly" stolen from.
 
-#### ⚔️ Battle System
+### ⚔️ Battle System
 
 The battle system for __BHM+__ is fully turn-based and customizable to the server administrators' hearts' intent! Up to five teams may be present, and players may add any character they wish to battle!
 
 The host of the battle is also able to add any of the NPCs created in the server, along with scaling them up with preset "levels", which scale up all their stats by 1 per level to have a more dynamic battle, and removing the need to create unique NPCs for each and every level possible.
 
-##### You can even have up to 5 teams!
+#### You can even have up to 5 teams!
 
 ___
 

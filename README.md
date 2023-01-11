@@ -67,7 +67,7 @@ See what awaits in hell-on-earth in this new turn-based, horrifying package-deli
 #### 🔗 Helpful links
 > __Check out the full [README](https://github.com/robertvargas-irq/gamedev-pico8-game-source#readme) and [Source Code](https://github.com/robertvargas-irq/gamedev-pico8-game-source)__.
 > 
-> [__Play the finished project here!__](https://robertvargas-irq.github.io/gamedev-pico8-project/game/ac_v_1_0)
+> 🎮 [__Play the finished project here!__](https://robertvargas-irq.github.io/gamedev-pico8-project/game/ac_v_1_0)
 
 ___
 

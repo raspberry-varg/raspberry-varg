@@ -39,6 +39,10 @@ This game features a custom-made, interpreted object-oriented programming langua
 
 > _If you would like to request a copy of the source code to browse Chai's full implementation, please email me directly at robertvargas.eptx@gmail.com_
 
+Small gameplay preview with music muted:
+
+https://github.com/robertvargas-irq/robertvargas-irq/assets/90274287/90e7a8fb-aebe-4f3e-99e1-94dff3dbfc84
+
 ___
 
 

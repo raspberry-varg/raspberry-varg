@@ -1,10 +1,17 @@
-# Hello, I'm Robert ("Em"), a freelance and independent developer.
+![Photo of 3 San Francisco skyscrapers, pointing at a partly-cloudy sky.](https://github.com/robertvargas-irq/robertvargas-irq/assets/90274287/4165f535-0952-49cb-9521-fc60eada7d2a)
 
-![Sunset with Vibrant Nighttime Hues](https://user-images.githubusercontent.com/90274287/142602047-1cf314e6-afa8-4862-a3c3-bf1bc0bf50ae.png)
+# 👋 Hi, I'm Robert ("Em")!
+
+I'm a software developer with a background in **compiler design and implementation**, engineering the inner workings of modern web frameworks, and game development. I have done extensive work utilizing **TypeScript, Python, and Java**.
 
 ___
 
+## Quick Highlights
+
 🔗 _Jump to:_
+- [💽 Ai's Odyssey Programming Game](#ao)
+  - [🍵 Chai, my custom programming language](#chai)
+- [📝 Battles & Hunts D&D Bot](#bhm)
 - [🕹️ Apocalypse Couriers Game](#%EF%B8%8F-apocalypse-couriers-8-bit-game)
 - [🍵 Course Sync](#-course-sync)
 - [🪡 My other projects](#-my-other-projects-consist-of)
@@ -12,9 +19,31 @@ ___
 
 ___
 
-<img src="assets/bhm/logo.png" alt="Battles, Hunts & More Logo" width="180em">
+## <a id="ao" />🐞 [Ai's Odyssey](https://github.com/Disk-Race-Games/AisOdysseyGame) | Featuring my custom programming language, 🍵 `Chai`
 
-## [Battles, Hunts, & More+](https://github.com/robertvargas-irq/battles-and-hunts-bot) | My Current Primary Project
+▶️ [Try the latest demo here!](https://github.com/Disk-Race-Games/AisOdysseyGame/releases)
+
+**Ai's Odyssey is a turn-based dungeon crawler teaching programming hands-on.**
+
+You take on the role of an AI created by a lazy game developer, stomping out computer bugs in their upcoming game **by programming in real-time during combat!**
+
+### <a id="chai" />🍵 [Chai](https://github.com/Disk-Race-Games/AisOdysseyGame?tab=readme-ov-file#chai)
+
+This game features a custom-made, interpreted object-oriented programming language called "`Chai`", written from the ground-up in Godot's scripting language GDScript. Chai is coupled with a simple but strong IDE with error surfacing, tooltips, and smart autocomplete!
+
+`Chai` seemlessly bridges the gap of UI and the in-game world, showing the effects of your code as it executes in real time; in-game objects and their properties are also exposed to the player as variables they can access and manipulate.
+
+`Chai` continues to grow and mature with each update, including a recent addition of arrays and strong static typing.
+
+[Read more about **my programming language Chai** and its features here](https://github.com/Disk-Race-Games/AisOdysseyGame?tab=readme-ov-file#chai)!
+
+> _If you would like to request a copy of the source code to browse Chai's full implementation, please email me directly at robertvargas.eptx@gmail.com_
+
+___
+
+
+
+## <a id="bhm"/><img src="assets/bhm/logo.png" alt="Battles, Hunts & More Logo" width="60em"> [Battles, Hunts, & More+](https://github.com/robertvargas-irq/battles-and-hunts-bot)
 
 ### Storytelling made easy.
 
@@ -71,7 +100,7 @@ See what awaits in hell-on-earth in this new turn-based, horrifying package-deli
 
 ___
 
-## 🍵 [Course Sync](../../../university-course-sync-discord-bot)
+## 🪢 [Course Sync](../../../university-course-sync-discord-bot)
 ![Concept Bot Logo Banner Full](https://user-images.githubusercontent.com/90274287/142596892-e92516e0-c394-4645-8b09-5b78a5804a41.png)
 
 ### Set it, and forget it.

@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Robert ("Em")!
 
-I'm a software developer with a background in **compiler design and implementation**, engineering the inner workings of modern web frameworks, and game development. I have done extensive work utilizing **TypeScript, Python, and Java**.
+I'm a software engineer with a background in **compiler design and implementation**, engineering the inner workings of modern web frameworks, and game development. I have done extensive work utilizing **TypeScript, Python, and Java**.
 
 ___
 

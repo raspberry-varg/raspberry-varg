@@ -1,4 +1,4 @@
-![Photo of 3 San Francisco skyscrapers, pointing at a partly-cloudy sky.](https://github.com/robertvargas-irq/robertvargas-irq/assets/90274287/4165f535-0952-49cb-9521-fc60eada7d2a)
+![Photo of 3 San Francisco skyscrapers, pointing at a partly-cloudy sky.](https://github.com/raspberry-varg/raspberry-varg/assets/90274287/4165f535-0952-49cb-9521-fc60eada7d2a)
 
 # 👋 Hi, I'm Robert ("Em")!
 
@@ -41,19 +41,19 @@ This game features a custom-made, interpreted object-oriented programming langua
 
 Small gameplay preview with music muted:
 
-https://github.com/robertvargas-irq/robertvargas-irq/assets/90274287/90e7a8fb-aebe-4f3e-99e1-94dff3dbfc84
+https://github.com/raspberry-varg/raspberry-varg/assets/90274287/90e7a8fb-aebe-4f3e-99e1-94dff3dbfc84
 
 ___
 
 
 
-## <a id="bhm"/><img src="assets/bhm/logo.png" alt="Battles, Hunts & More Logo" width="60em"> [Battles, Hunts, & More+](https://github.com/robertvargas-irq/battles-and-hunts-bot)
+## <a id="bhm"/><img src="assets/bhm/logo.png" alt="Battles, Hunts & More Logo" width="60em"> [Battles, Hunts, & More+](https://github.com/raspberry-varg/battles-and-hunts-bot)
 
 ### Storytelling made easy.
 
 Battles, Hunts & More is a Discord bot that supercharges the process of storytelling and role-play within a Discord server.
 
-🖼️ [__View the full README with visuals included.__](https://github.com/robertvargas-irq/battles-and-hunts-bot/tree/dev_build#readme)
+🖼️ [__View the full README with visuals included.__](https://github.com/raspberry-varg/battles-and-hunts-bot/tree/dev_build#readme)
 
 ### 🏓 Player Features
 Comeplete with character creation, **BHM+** allows players to fully document their character's (or characters') backstory, history, and any stats that define their combat readiness, hunting abilities, and general stature and survivability. This leans into their proficiency in hunting, hunger, and fully-fledged and customizable __Turn-Based Combat System__ mechanics available to all players in __BHM+__!
@@ -83,7 +83,7 @@ ___
 
 ## 🕹️ Apocalypse Couriers [8-Bit Game]
 
-![Apocalypse Couriers level 1, 2, and 3](https://raw.githubusercontent.com/robertvargas-irq/gamedev-pico8-game-source/main/assets/level_images.png)
+![Apocalypse Couriers level 1, 2, and 3](https://raw.githubusercontent.com/raspberry-varg/gamedev-pico8-game-source/main/assets/level_images.png)
 
 Apocalypse Couriers is a top-down package-delivery game with a linear storyline, much like Hideo Kojima’s Death Stranding in which you deliver essential packages across a barren, twisted landscape for the entirety of the game; the twist, however, is that you battle medieval enemies that block your path from one merchant to another in randomly generated “dungeon” maps in the middle of the apocalypse, enemies twisted and distorted as hellish versions of themselves become apparent within the game. It’s like hell just merged with earth and humans are the final creatures left alive without any significant altercations.
 
@@ -98,9 +98,9 @@ The player grows stronger based on any power-ups in the forms of “ancient arti
 See what awaits in hell-on-earth in this new turn-based, horrifying package-delivery game of doom!
 
 #### 🔗 Helpful links
-> __Check out the full [README](https://github.com/robertvargas-irq/gamedev-pico8-game-source#readme) and [Source Code](https://github.com/robertvargas-irq/gamedev-pico8-game-source)__.
+> __Check out the full [README](https://github.com/raspberry-varg/gamedev-pico8-game-source#readme) and [Source Code](https://github.com/raspberry-varg/gamedev-pico8-game-source)__.
 > 
-> 🎮 [__Play the finished project here!__](https://robertvargas-irq.github.io/gamedev-pico8-project/game/ac_v_1_0)
+> 🎮 [__Play the finished project here!__](https://raspberry-varg.github.io/gamedev-pico8-project/game/ac_v_1_0)
 
 ___
 
@@ -145,6 +145,6 @@ ___
 ___
 
 <!---
-robertvargas-irq/robertvargas-irq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+raspberry-varg/raspberry-varg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

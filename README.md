@@ -102,11 +102,6 @@ See what awaits in hell-on-earth in this new turn-based, horrifying package-deli
 > 
 > 🎮 [__Play the finished project here!__](https://raspberry-varg.github.io/gamedev-pico8-project/game/ac_v_1_0)
 
-___
-
-### 🪡 My other projects consist of
-* [**Independent Valorant eSports League Discord Bot**](../../../valorant-league-bot), complete with team management, moderation, and user profiles to enhance competitor experiences across the board.
-
 <!---
 raspberry-varg/raspberry-varg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

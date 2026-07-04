@@ -13,9 +13,6 @@ ___
   - [🍵 Chai, my custom programming language](#chai)
 - [📝 Battles & Hunts D&D Bot](#bhm)
 - [🕹️ Apocalypse Couriers Game](#%EF%B8%8F-apocalypse-couriers-8-bit-game)
-- [🍵 Course Sync](#-course-sync)
-- [🪡 My other projects](#-my-other-projects-consist-of)
-- [🎀 A Little More About Me](#-a-little-more-about-me)
 
 ___
 

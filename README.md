@@ -1,8 +1,6 @@
 ![Photo of 3 San Francisco skyscrapers, pointing at a partly-cloudy sky.](https://github.com/raspberry-varg/raspberry-varg/assets/90274287/4165f535-0952-49cb-9521-fc60eada7d2a)
 
-# 👋 Hi, I'm Robert ("Em")!
-
-I'm a software engineer with a background in **compiler design and implementation**, engineering the inner workings of modern web frameworks, and game development. I have done extensive work utilizing **TypeScript, Python, and Java**.
+👋 Hi! I'm a software engineer with a background in **compiler design and implementation**, engineering the inner workings of modern web frameworks, and game development. I have done extensive work utilizing **TypeScript, Python, and Java**.
 
 ___
 
@@ -33,8 +31,6 @@ This game features a custom-made, interpreted object-oriented programming langua
 `Chai` continues to grow and mature with each update, including a recent addition of arrays and strong static typing.
 
 [Read more about **my programming language Chai** and its features here](https://github.com/Disk-Race-Games/AisOdysseyGame?tab=readme-ov-file#chai)!
-
-> _If you would like to request a copy of the source code to browse Chai's full implementation, please email me directly at robertvargas.eptx@gmail.com_
 
 Small gameplay preview with music muted:
 
